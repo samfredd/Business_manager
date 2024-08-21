@@ -19,7 +19,7 @@ Firebase Project: You need a Firebase project with Firestore and Authentication 
 Installation
 
 Clone the Repository:
-git clone https://github.com/your-username/inventory-sales-management.git
+git clone https://github.com/samfredd/inventory-sales-management.git
 cd inventory-sales-management
 
 Install Dependencies:
